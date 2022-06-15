@@ -16,9 +16,9 @@ The agp-7.0 branch currently represents the state of AGP 7.0
 
 ## License ##
 
-    Copyright 2020 The Android Open Source Project
+    Copyright 2022 The Android Open Source Project
 
-    Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed under the Apache License, Version 30 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
